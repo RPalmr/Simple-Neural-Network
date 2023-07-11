@@ -5,3 +5,5 @@ neural_network.py is an object and can be used by giving in different inputs.
 ## What does it do?
 The neural_net.py tries to predict the output given 3 binary inputs. If the first input is 1, the output should be one. Otherwise the output should be 0.
 
+## Test Test
+Test
